@@ -1,2 +1,7 @@
-# omnifood
-Landing page for healthy food delivery 
+# Omnifood
+
+Адаптивный лендинг сайта доставки здоровой еды по подписке
+
+### Стек
+
+HTML, CSS, Javascript
